@@ -1,0 +1,88 @@
+{
+  "jobs": [
+    {
+      "title": "Yolanda Hodge",
+      "type": "Remote",
+      "location": "Aliquam temporibus s",
+      "description": "Iure neque ut est ni",
+      "salary": "$90K - $100K",
+      "company": {
+        "name": "Bates Cooley Co",
+        "description": "Aliquam magni pariat",
+        "contactEmail": "vumum@mailinator.com",
+        "contactPhone": "+1 (526) 962-4454"
+      },
+      "id": "9f96"
+    },
+    {
+      "id": "dfe3",
+      "type": "Part-Time",
+      "title": "Jelani Gonzales",
+      "location": "Ut aut anim ex offic",
+      "description": "Totam labore et elit",
+      "salary": "$80K - $90K",
+      "company": {
+        "name": "Bishop and Pruitt Traders",
+        "description": "Sed dolorem do sint ",
+        "contactEmail": "himi@mailinator.com",
+        "contactPhone": "+1 (593) 364-6369"
+      }
+    },
+    {
+      "id": "7cba",
+      "type": "Remote",
+      "title": "Kristen Kidd",
+      "location": "Fugiat aut dolor sit",
+      "description": "Laborum beatae aliqu",
+      "salary": "Under $50K",
+      "company": {
+        "name": "Tanner Ryan Traders",
+        "description": "Perferendis rem irur",
+        "contactEmail": "bebuxysyhe@mailinator.com",
+        "contactPhone": "+1 (931) 584-9622"
+      }
+    },
+    {
+      "title": "Cullen Gordon",
+      "type": "Part-Time",
+      "location": "Est eos voluptate u",
+      "description": "Sint porro non aut s",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Stout Pruitt Traders",
+        "description": "Aute modi corporis i",
+        "contactEmail": "memyweluv@mailinator.com",
+        "contactPhone": "+1 (413) 551-5794"
+      },
+      "id": "2b21"
+    },
+    {
+      "id": "704d",
+      "type": "Full-Time",
+      "title": "Tatum Bentley",
+      "location": "Minima sed amet qui",
+      "description": "Tempor ut non magnam",
+      "salary": "Over $200K",
+      "company": {
+        "name": "Carney Franco Co",
+        "description": "Laborum cillum volup",
+        "contactEmail": "jasebydi@mailinator.com",
+        "contactPhone": "+1 (919) 762-6295"
+      }
+    },
+    {
+      "id": "6baa",
+      "type": "Remote",
+      "title": "Barrett Stephenson",
+      "location": "Quis asperiores enim",
+      "description": "Dolore velit dolor i",
+      "salary": "$50K - $60K",
+      "company": {
+        "name": "Kirby and Swanson Plc",
+        "description": "Nihil maiores tempor",
+        "contactEmail": "pytony@mailinator.com",
+        "contactPhone": "+1 (344) 216-8076"
+      }
+    }
+  ]
+}
